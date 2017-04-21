@@ -1,0 +1,15 @@
+C:\Users\Jacky\Documents\Visual Studio 2015\Projects\Chinese Chess New\Chinese Chess New\bin\Debug\Chinese Chess New.exe.config
+C:\Users\Jacky\Documents\Visual Studio 2015\Projects\Chinese Chess New\Chinese Chess New\bin\Debug\Chinese Chess New.exe
+C:\Users\Jacky\Documents\Visual Studio 2015\Projects\Chinese Chess New\Chinese Chess New\bin\Debug\Chinese Chess New.pdb
+C:\Users\Jacky\Documents\Visual Studio 2015\Projects\Chinese Chess New\Chinese Chess New\bin\Debug\Chinese Chess New.xml
+C:\Users\Jacky\Documents\Visual Studio 2015\Projects\Chinese Chess New\Chinese Chess New\obj\Debug\Chinese_Chess_New.VisualBoard.resources
+C:\Users\Jacky\Documents\Visual Studio 2015\Projects\Chinese Chess New\Chinese Chess New\obj\Debug\Chinese_Chess_New.Resources.resources
+C:\Users\Jacky\Documents\Visual Studio 2015\Projects\Chinese Chess New\Chinese Chess New\obj\Debug\Chinese Chess New.vbproj.GenerateResource.Cache
+C:\Users\Jacky\Documents\Visual Studio 2015\Projects\Chinese Chess New\Chinese Chess New\obj\Debug\Chinese Chess New.exe
+C:\Users\Jacky\Documents\Visual Studio 2015\Projects\Chinese Chess New\Chinese Chess New\obj\Debug\Chinese Chess New.xml
+C:\Users\Jacky\Documents\Visual Studio 2015\Projects\Chinese Chess New\Chinese Chess New\obj\Debug\Chinese Chess New.pdb
+C:\Users\Jacky\Documents\Visual Studio 2015\Projects\Chinese Chess New\Chinese Chess New\obj\Debug\Chinese Chess New.vbprojResolveAssemblyReference.cache
+C:\Users\Jacky\Documents\GitHub\ChineseChessNew\Chinese Chess New\Chinese Chess New\bin\Debug\Chinese Chess New.exe.config
+C:\Users\Jacky\Documents\GitHub\ChineseChessNew\Chinese Chess New\Chinese Chess New\obj\Debug\Chinese Chess New.exe
+C:\Users\Jacky\Documents\GitHub\ChineseChessNew\Chinese Chess New\Chinese Chess New\obj\Debug\Chinese Chess New.xml
+C:\Users\Jacky\Documents\GitHub\ChineseChessNew\Chinese Chess New\Chinese Chess New\obj\Debug\Chinese Chess New.pdb

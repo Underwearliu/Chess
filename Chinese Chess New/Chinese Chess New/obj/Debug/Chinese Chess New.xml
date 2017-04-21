@@ -1,0 +1,121 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Chinese Chess New
+</name>
+</assembly>
+<members>
+<member name="T:Chinese_Chess_New.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Board">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___Advisor__Black_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___Advisor__Red_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___Cannon__Black_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___Cannon__Red_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___Chariot__Black_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___Chariot__Red_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___Elephant__Black_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___Elephant__Red_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___General__Black_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___General__Red_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___Horse__Black_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___Horse__Red_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___Soldier__Black_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Chess_Pieces___Soldier__Red_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Red">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Chinese_Chess_New.My.Resources.Resources.Target">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
